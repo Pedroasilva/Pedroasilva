@@ -41,8 +41,8 @@ Além do desenvolvimento, me interesso por **DevOps, arquitetura de software** e
 
 ## 📈 Estatísticas do GitHub  
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdroaosilva&show_icons=true&theme=dark)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pdroaosilva&layout=compact&theme=dark)  
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedroasilva&show_icons=true&theme=dark)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroasilva&layout=compact&theme=dark)  
 
 ---
 
