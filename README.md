@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Pedro!
 
-💻 Desenvolvedor Fullstack Sênior
+💻 Desenvolvedor Fullstack Sênior  
 🚀 Apaixonado por tecnologia e inovação  
 📍 Goiânia - GO, Brasil  
 
